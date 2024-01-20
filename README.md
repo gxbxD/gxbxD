@@ -1,6 +1,13 @@
 ### Hi there 👋
 ![Header](./github-header-gabriel.png)
 
+## About me:  
+Über mich:
+
+I'm a Graphic Designer, I've been working with photo restoration for 8 years and Graphic Design for 3 years.
+I have always been passionate about technology and started studying programming in depth in 2023.
+I'm looking for learning and great opportunities!
+
 <!--
 **gxbxD/gxbxD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
