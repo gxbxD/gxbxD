@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Header](./github-header-image.png)
+![Header](./github-header-gabriel.png)
 
 <!--
 **gxbxD/gxbxD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
