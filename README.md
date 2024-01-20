@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Header](./![github-header-image](https://github.com/gxbxD/gxbxD/blob/main/github-header-image.png).
+![Header](./github-header-image.png)
 )
 
 <!--
