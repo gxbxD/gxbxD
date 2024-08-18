@@ -16,7 +16,7 @@ I am looking for great opportunities to grow and develop my skills, and to keep 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gxbxD&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF) 
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gxbxD&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## :crossed_swords: My Arsenal:
 
@@ -72,7 +72,6 @@ I am looking for great opportunities to grow and develop my skills, and to keep 
 ## :art: Extra:
 
 I have skills acquired throughout my Design career that can be useful in my work as a developer, such as:  
-Ich habe mir im Laufe meiner Designkarriere Fähigkeiten angeeignet, die mir bei meiner Arbeit als Entwickler nützlich sein können, wie zum Beispiel:
 
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
