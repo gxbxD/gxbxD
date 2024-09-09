@@ -63,6 +63,7 @@ I am looking for great opportunities to grow and develop my skills, and to keep 
 ## :construction: Projects I'm working on: :construction:
 
 [![NutriTabAPI](https://github-readme-stats.vercel.app/api/pin/?username=gxbxD&repo=api-nutricional)](https://github.com/gxbxD/api-nutricional) [![SiteEscola](https://github-readme-stats.vercel.app/api/pin/?username=gxbxD&repo=SiteEscola)](https://github.com/gxbxD/SiteEscola)
+[![Just_Having_Fun](https://github-readme-stats.vercel.app/api/pin/?username=gxbxD&repo=Just_Having_Fun)](https://github.com/gxbxD/Just_Having_Fun)
 
 
 
